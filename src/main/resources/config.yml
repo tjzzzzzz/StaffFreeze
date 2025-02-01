@@ -1,0 +1,21 @@
+prefix: "&7[StaffFreeze] "
+messages:
+  freeze-message: "&7-------------------
+\n&cYou are frozen!  
+\n&cPlease join our discord: discord.gg/example
+\n&c Join support/screenshare waiting room.   
+\n&7-------------------
+  "
+  frozen: "&cYou have been frozen!"
+  unfrozen: "&aYou have been unfrozen!"
+  no-permission: "&cYou don't have permission!"
+  player-not-found: "&cPlayer not found!"
+  usage: "&cUsage: /freeze <player> & /ss <player>"
+  frozen-broadcast: "&c%player% has been frozen by %sender%"
+  unfrozen-broadcast: "&a%player% has been unfrozen by %sender%"
+  you-froze: "&aYou froze %player%"
+  you-unfroze: "&aYou unfroze %player%"
+  frozen-logout: "&c%player% has logged out while frozen!"
+  last-freeze-message: "&ePlayer %player% was last frozen %time%"
+  last-freeze-never: "&ePlayer %player% has not been frozen in this instance"
+  last-freeze-player-not-found: "&cPlayer not found"

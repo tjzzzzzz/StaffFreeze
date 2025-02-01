@@ -1,0 +1,28 @@
+name: StaffFreeze
+version: '1.0'
+main: fi.tj88888.staffFreeze.StaffFreeze
+api-version: '1.21'
+prefix: StaffFreeze
+load: STARTUP
+authors: [ tj88888 ]
+website: tj88888.fi
+
+commands:
+  freeze:
+    aliases: [ss]
+    description: Freeze a player
+    usage: /freeze <player>
+  stafffreezereload:
+    description: Reload the StaffFreeze configuration
+    usage: /stafffreezereload
+    permission: stafffreeze.reload
+    default: op
+  lastfreeze:
+    aliases: [lf]
+    description: Check when a player was last frozen
+    usage: /lastfreeze <player>
+
+permissions:
+  stafffreeze.use:
+    description: Allows freezing players
+    default: op
