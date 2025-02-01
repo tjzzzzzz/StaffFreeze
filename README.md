@@ -4,7 +4,7 @@
 
 
 ## Overview
-StaffFreeze is a powerful Minecraft plugin designed for server staff to effectively manage and monitor players during screenshare or investigation processes.
+StaffFreeze is a Minecraft plugin designed for server staff to effectively manage and monitor players during screenshare or investigation processes.
 
 ## Features
 
@@ -46,5 +46,3 @@ StaffFreeze is a powerful Minecraft plugin designed for server staff to effectiv
 2. Start/restart your server
 3. Configure messages in `config.yml` as needed
 4. Grant necessary permissions to staff members
-
-This plugin is perfect for server administrators who need reliable tools for player moderation and screenshare management.
