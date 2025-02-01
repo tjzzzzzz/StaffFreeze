@@ -1,5 +1,7 @@
 # StaffFreeze 
-![c804e321-ff9f-493a-baaa-a00ca353630b](https://github.com/user-attachments/assets/1776db64-5e82-4389-974b-60ce127c741a)
+<img src="https://github.com/user-attachments/assets/1776db64-5e82-4389-974b-60ce127c741a" width="300">
+
+
 
 ## Overview
 StaffFreeze is a powerful Minecraft plugin designed for server staff to effectively manage and monitor players during screenshare or investigation processes.
